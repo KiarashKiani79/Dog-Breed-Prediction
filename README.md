@@ -29,3 +29,24 @@ This project involves using Keras and TensorFlow to build, train, and test a con
 ## Applications
 - The CNN model can be optimized further.
 - Practical applications for NGOs and educational purposes in animal care.
+
+## Running the app in system
+
+**1. Open your terminal:**
+
+Navigate to the directory containing `main_app.py`.
+
+**2. Run the app:**
+
+Enter the following command in your terminal:
+``` streamlit run main_app.py ```
+
+**3. The app will launch:**
+
+<img src="https://github.com/KiarashKiani79/Dog-Breed-Prediction/blob/main/result_screenshots/page.png" />
+
+**4. Here are some examples:**
+
+<img src="https://github.com/KiarashKiani79/Dog-Breed-Prediction/blob/main/result_screenshots/Bernese_Mountain_Dog.png" width=400 />
+<img src="https://github.com/KiarashKiani79/Dog-Breed-Prediction/blob/main/result_screenshots/Maltese_Dog.png" width=400 />
+<img src="https://github.com/KiarashKiani79/Dog-Breed-Prediction/blob/main/result_screenshots/scottish_deerhound.png" width=400 />
